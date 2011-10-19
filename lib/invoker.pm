@@ -1,7 +1,7 @@
 package invoker;
 
 use strict;
-use 5.010_001;
+use 5.010;
 
 use B::Hooks::OP::Check;
 use B::Hooks::EndOfScope;
